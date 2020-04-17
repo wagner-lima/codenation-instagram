@@ -3,8 +3,11 @@
 ## Objetivo:
 Desenvolver uma versão **mobile first** do Instagram utilizando apenas **HTML5** e **CSS3**.
 
-> **Preview:**
+> **Modelo:**
 > [Instagram Codenation](https://aceleradev-react.netlify.com/aula-02/public)
+
+>**Minha Versão:**
+> [WL-Codenation-Instagram](https://wl-codenation-instagram.netlify.app/)
 
 ## Tópicos:
 Neste desafio, você vai praticar os seus conhecimentos em: 
